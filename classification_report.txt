@@ -1,0 +1,15 @@
+                                                                  precision    recall  f1-score   support
+
+                                                  1. Eczema 1677      0.433     0.575     0.494       315
+           10. Warts Molluscum and other Viral Infections - 2103      0.590     0.516     0.551       432
+                                              2. Melanoma 15.75k      0.963     0.937     0.949       631
+                                    3. Atopic Dermatitis - 1.25k      0.503     0.360     0.420       250
+                              4. Basal Cell Carcinoma (BCC) 3323      0.866     0.853     0.859       651
+                     6. Benign Keratosis-like Lesions (BKL) 2624      0.733     0.761     0.747       426
+   7. Psoriasis pictures Lichen Planus and related diseases - 2k      0.488     0.306     0.376       392
+          8. Seborrheic Keratoses and other Benign Tumors - 1.8k      0.520     0.706     0.599       371
+9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k      0.500     0.562     0.529       368
+
+                                                        accuracy                          0.666      3836
+                                                       macro avg      0.622     0.619     0.614      3836
+                                                    weighted avg      0.670     0.666     0.662      3836

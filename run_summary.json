@@ -1,0 +1,24 @@
+{
+  "model_name": "EfficientNetB0",
+  "num_classes": 9,
+  "class_names": [
+    "1. Eczema 1677",
+    "10. Warts Molluscum and other Viral Infections - 2103",
+    "2. Melanoma 15.75k",
+    "3. Atopic Dermatitis - 1.25k",
+    "4. Basal Cell Carcinoma (BCC) 3323",
+    "6. Benign Keratosis-like Lesions (BKL) 2624",
+    "7. Psoriasis pictures Lichen Planus and related diseases - 2k",
+    "8. Seborrheic Keratoses and other Benign Tumors - 1.8k",
+    "9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k"
+  ],
+  "final_train_accuracy": 0.7978,
+  "final_val_accuracy": 0.6762,
+  "final_train_loss": 0.6249,
+  "final_val_loss": 0.8823,
+  "finetuned": true,
+  "class_weighted": true,
+  "epochs_requested": 8,
+  "finetune_epochs_requested": 6,
+  "batch_size": 16
+}
