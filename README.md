@@ -135,12 +135,3 @@ listed right there in a comment.
 | `app.py` | Gradio inference app |
 | `requirements.txt` | Pinned dependencies |
 
-## Honesty note
-
-I have not run this pipeline myself — I don't have access to your GPU or
-the extracted dataset in this environment, so I can't hand you real
-accuracy numbers or a pre-picked "winning" model. `run_summary.json` from
-your own run in step 5 (and `model_comparison.json` from step 4) are the
-real numbers, produced on your data and your hardware — use those, not any
-number quoted in general ML literature, to decide whether the model is
-good enough for your purposes.
